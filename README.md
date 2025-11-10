@@ -103,6 +103,8 @@ sudo docker compose down
 
 ---
 
+---
+
 ## 👨‍💻 Author
 
 **Saikiran Rajesh Asamwar**  
@@ -112,8 +114,4 @@ Certified AWS DevOps Engineer
 - 💼 LinkedIn: [Saikiran Asamwar](https://www.linkedin.com/in/saikiran-asamwar/)
 - 📧 Email: saikiranasamwar@gmail.com
 
----tps://github.com/SaikiranAsamwar)  
-- Email: saikiranasamwar@gmail.com  
-
 ---
-
