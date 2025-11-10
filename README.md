@@ -106,7 +106,7 @@ sudo docker compose down
 ## 👨‍💻 Author
 
 **Saikiran Rajesh Asamwar**  
-- Full Stack MERN Developer | Certified AWS Cloud Engineer | Aspiring DevOps Engineer  
+- Certified AWS DevOps Engineer  
 - GitHub: [SaikiranAsamwar](https://github.com/SaikiranAsamwar)  
 - Email: saikiranasamwar@gmail.com  
 
